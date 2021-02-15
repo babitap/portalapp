@@ -1,0 +1,73 @@
+
+.card{
+  width: 356px;
+  height: 479px;
+  border: none !important;
+}
+.img-s{
+    width: 356px;
+    height: 479px;
+}
+
+.container{
+  display:flex;
+  align-items:space-between;
+  justify-content:space-between;
+  flex-wrap:wrap;
+  .card{    
+    background:white;
+    padding:25px;
+    margin-bottom:20px;
+    height:450px;
+    width: 300px !important;
+    border: none !important;
+  }
+}
+
+.card-s1 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 300px !important;
+  word-wrap: break-word;
+  background-color: #e1e1e1;
+  background-clip: border-box;
+  border: 1px solid rgba(0,0,0,.125);
+  border-radius: .25rem;
+}
+
+.card-placement {  
+  display: flex;
+  flex-direction: row;
+}
+
+.container-s{
+  margin-left:5rem;
+  margin-right:5rem;
+}
+
+.container-s2{
+  display:flex;  
+  flex-wrap:wrap;
+  align-items:space-between;
+  .card{
+    width:auto; 
+    background:white;
+    padding:25px;
+    margin-bottom:20px;
+    height:450px;
+  }
+}
+
+.card-img, .card-img-bottom, .card-img-top {
+  flex-shrink: 0;
+  width:300px !important;
+}
+
+.react-multi-carousel-list {
+  display: inline !important;
+  align-items: center;
+  overflow: hidden;
+  position: relative;  
+}
+
