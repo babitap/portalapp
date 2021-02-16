@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portalapp/static/css/main.7224d390.chunk.css",
+    "main.js": "/portalapp/static/js/main.aaacc266.chunk.js",
+    "main.js.map": "/portalapp/static/js/main.aaacc266.chunk.js.map",
+    "runtime-main.js": "/portalapp/static/js/runtime-main.97a6530e.js",
+    "runtime-main.js.map": "/portalapp/static/js/runtime-main.97a6530e.js.map",
+    "static/css/2.d7dc8739.chunk.css": "/portalapp/static/css/2.d7dc8739.chunk.css",
+    "static/js/2.b6819268.chunk.js": "/portalapp/static/js/2.b6819268.chunk.js",
+    "static/js/2.b6819268.chunk.js.map": "/portalapp/static/js/2.b6819268.chunk.js.map",
+    "index.html": "/portalapp/index.html",
+    "precache-manifest.a01096fe868990c78cc2cbb5d6aeb486.js": "/portalapp/precache-manifest.a01096fe868990c78cc2cbb5d6aeb486.js",
+    "service-worker.js": "/portalapp/service-worker.js",
+    "static/css/2.d7dc8739.chunk.css.map": "/portalapp/static/css/2.d7dc8739.chunk.css.map",
+    "static/css/main.7224d390.chunk.css.map": "/portalapp/static/css/main.7224d390.chunk.css.map",
+    "static/js/2.b6819268.chunk.js.LICENSE.txt": "/portalapp/static/js/2.b6819268.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/portalapp/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/all.min.css": "/portalapp/static/media/fa-solid-900.9ae050d1.woff2",
+    "static/media/styles.css": "/portalapp/static/media/revicons.2feb69cc.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97a6530e.js",
+    "static/css/2.d7dc8739.chunk.css",
+    "static/js/2.b6819268.chunk.js",
+    "static/css/main.7224d390.chunk.css",
+    "static/js/main.aaacc266.chunk.js"
+  ]
+}
